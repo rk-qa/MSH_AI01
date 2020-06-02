@@ -15,8 +15,9 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println("Test has been executed");
-        System.out.println("Test has been executed");
+        System.out.println("Test has been executed 1");
+        System.out.println("Test has been executed 2");
+        System.out.println("Test has been executed 3");
 
     }
 }
