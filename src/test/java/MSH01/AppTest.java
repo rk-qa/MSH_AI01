@@ -16,5 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("Test has been executed");
+        System.out.println("Test has been executed");
+
     }
 }
