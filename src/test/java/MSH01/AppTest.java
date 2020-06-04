@@ -20,6 +20,7 @@ public class AppTest
         System.out.println("Test has been executed 3");
         System.out.println("Test has been executed 4");
         System.out.println("Test has been executed 5");
+        System.out.println("Test has been executed 6");
 
 
     }
