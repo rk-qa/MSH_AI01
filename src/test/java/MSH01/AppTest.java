@@ -21,7 +21,7 @@ public class AppTest
         System.out.println("Test has been executed 4");
         System.out.println("Test has been executed 5");
         System.out.println("Test has been executed 6");
-        System.out.println("Test has been executed 7m");
+        System.out.println("Test has been executed 7");
 
 
     }
